@@ -1,0 +1,14 @@
+body {
+	background-color: pink;
+	font-family: arial;
+	}
+p {
+  color: red;
+  font-family: courier;
+  font-size: 100%;
+  }
+h2 {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+  }
